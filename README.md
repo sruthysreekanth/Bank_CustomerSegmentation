@@ -15,5 +15,5 @@
 * Python Libraries ( Pandas, Numpy, Seaborn, Matplotlib, Scipy, datetime, calendar, folium, sklearn, pylab, statsmodels.api ) 
 * Tableau
 
-
+[View the Project visualizations](https://public.tableau.com/app/profile/sruthy.sreekanth/viz/BankCustomerSegmentation_16847727958780/BankCustomerSegmentation)
 
